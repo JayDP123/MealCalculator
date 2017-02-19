@@ -1,0 +1,57 @@
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    /*background-repeat: repeat-x;*/
+    /*background-size: cover;*/
+    /*background-image: url(images/cobaltSwells.png);*/
+    
+}
+.clickableHeader{
+    cursor: pointer;
+}
+
+body {
+    background-color: #EAEAEA;
+    color: #336633;
+}
+h1 {
+    color: #336633;
+}
+h4{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+p{
+    color: #336633;
+}
+footer {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 25px;
+}
+table{
+    border-style: solid;
+    border-width: medium;        
+}
+td {
+    border-style: solid;
+    border-width: thin;
+    padding-top: 5px;
+    padding-bottom: 5px;    
+}
+ul{
+    list-style-type: none;
+    margin-top: 2.5px;    
+}
+li{
+    padding: 2.5px 2.5px 2.5px 2.5px;    
+}
+a{
+    font-size: 14px;
+    font-family: serif;
+    text-decoration-line: none;
+    color: #336633;    
+}
+
